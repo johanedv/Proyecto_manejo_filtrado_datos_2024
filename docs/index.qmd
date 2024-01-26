@@ -3,9 +3,14 @@ title: "uso de git hub"
 format: html
 editor: visual
 ---
+::: panel-tabset
 
-##Ignicion
+vamole a tomar cafe
 
-##prueba uno
+## Ignicion
 
-##Ejercicio uno
+## prueba uno
+
+## Ejercicio uno
+
+:::
